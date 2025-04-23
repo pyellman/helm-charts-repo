@@ -4,14 +4,9 @@
 - Repository to host some Helm Charts 
 
 ## Charts on GitHub
-- [Helm Charts GitHub Repository](https://github.com/stacksimplify/helm-charts)
+- (https://pyellman.github.io/helm-charts-repo/)
 
-## Docker Images used on Helm Charts
-- [StackSimplify Docker Images](https://github.com/stacksimplify?tab=packages)
-- [kubenginx Docker Image](https://github.com/users/stacksimplify/packages/container/package/kubenginx)
-- [kubenginxhelm Docker Image](https://github.com/users/stacksimplify/packages/container/package/kubenginxhelm)
-
-## Regenerate index.yaml for git Helm Repo
+## How to do some stuff
 ```t
 ## Make something big happen
 # Make something not so big happen
