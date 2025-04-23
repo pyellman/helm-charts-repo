@@ -4,7 +4,7 @@
 - Repository to host some Helm Charts 
 
 ## Charts on GitHub
-- - [Charts GitHub Repository] (https://pyellman.github.io/helm-charts-repo/)
+- [Charts GitHub Repository] (https://pyellman.github.io/helm-charts-repo/)
 
 ## How to do some stuff
 ```t
