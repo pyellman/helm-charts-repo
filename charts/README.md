@@ -1,1 +1,1 @@
-## This should show up as README on artifacthub
+## charts/README.md: Will this show up as README on artifacthub?
